@@ -3,4 +3,4 @@ title : About Me
 description:
 ---
 
-Hello, how are you?
+Hello, I am Oliver Scott and the year is 2012. I am Cornish and work as a Learning Technologist.
